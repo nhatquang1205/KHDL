@@ -1,0 +1,294 @@
+asia park
+
+outdoor
+
+amusement_park
+water_park
+carrousel
+stage/outdoor
+playground
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Bien
+
+outdoor
+
+beach_house
+lagoon
+beach
+promenade
+islet
+
+natural light
+open area
+sunny
+man-made
+far-away horizon
+clouds
+boating
+swimming
+ocean
+touring
+
+Ba na hils
+
+outdoor
+
+water_park
+castle
+village
+amusement_park
+palace
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Ban dao Son Tra
+
+outdoor
+
+islet
+lagoon
+cliff
+beach_house
+ocean
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Chua Linh Ung
+
+outdoor
+
+mausoleum
+temple/asia
+mosque/outdoor
+pagoda
+museum/outdoor
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Cu Lao Cham
+
+outdoor
+
+lagoon
+islet
+beach_house
+ocean
+beach
+
+natural light
+open area
+man-made
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Cau tau tinh yeu
+
+outdoor
+
+canal/urban
+promenade
+lock_chamber
+harbor
+oilrig
+
+natural light
+open area
+man-made
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+CauDaNang
+
+outdoor
+
+bridge
+canal/urban
+harbor
+boathouse
+viaduct
+
+natural light
+open area
+sunny
+man-made
+clouds
+far-away horizon
+touring
+boating
+swimming
+no horizon
+
+Hai dang Tien Sa
+
+outdoor
+
+beach_house
+lighthouse
+water_tower
+boardwalk
+tower
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Ngu Hanh Son
+
+outdoor
+
+village
+japanese_garden
+beach_house
+pagoda
+temple/asia
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Suoi khoang Than Tai
+
+outdoor
+
+water_park
+beach_house
+swimming_pool/outdoor
+amusement_park
+village
+
+natural light
+man-made
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Tuong ca chep hoa rong Da Nang
+
+outdoor
+
+canal/urban
+water_park
+fountain
+mosque/outdoor
+oilrig
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Vincom
+
+indoor
+
+department_store
+embassy
+parking_garage/outdoor
+fastfood_restaurant
+hotel/outdoor
+
+man-made
+natural light
+open area
+touring
+no horizon
+sunny
+clouds
+metal
+vertical components
+indoor lighting
+
+Dinh Ban Co
+
+outdoor
+
+desert/vegetation
+zen_garden
+islet
+tree_farm
+sky
+
+natural light
+open area
+man-made
+touring
+sunny
+no horizon
+clouds
+metal
+vertical components
+indoor lighting
+
